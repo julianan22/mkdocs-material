@@ -19,16 +19,16 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: CREPS
+site_url: https://julianan22.github.io/mkdocs-material/
+site_author: Juliana Lucia Pineda Cardozo
 site_description: >-
   Write your documentation in Markdown and create a professional static site in
   minutes – searchable, customizable, for all devices
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: julianan22/mkdocs-material/
+repo_url: hhttps://github.com/julianan22/mkdocs-material/
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2023 Martin Donath
